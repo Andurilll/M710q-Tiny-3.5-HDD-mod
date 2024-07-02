@@ -57,12 +57,17 @@ I'm not responsible for Board damage or a fire!
 
 8 Close
 
+# Extra photo for GND/5V/12V
+Thanks to systemerror-codenotfound https://cults3d.com/es/modelo-3d/artilugios/3d-printed-nas-case-for-tiny-m710q-m910q-m720q-m920q
+![image](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/4ec6e9d4-585e-4514-8299-0189709304d9)
+
+
 # To Do's
 
 - [ ] Print 3D bracket for HDD
 
 # Credits
 
-Thanks @badger707 for your work with the m920q. https://github.com/badger707/m920q-dual-NVME
+Thanks badger707 for your work with the m920q. https://github.com/badger707/m920q-dual-NVME
 
 The M710q schematics are here available: https://github.com/badger707/m920q-dual-NVME/issues/2  ( https://github.com/badger707/m920q-dual-NVME/files/11174851/ThinkCentre_M710q_LiteON_JC133_IQ270IH1_REVX03_www_DeviceDB_xyz_.pdf )

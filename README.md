@@ -61,10 +61,14 @@ I'm not responsible for Board damage or a fire!
 Thanks to systemerror-codenotfound https://cults3d.com/es/modelo-3d/artilugios/3d-printed-nas-case-for-tiny-m710q-m910q-m720q-m920q
 ![image](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/4ec6e9d4-585e-4514-8299-0189709304d9)
 
+9 Print and assemble 3D printed Case
+
+https://www.thingiverse.com/thing:6691335
+
 
 # To Do's
 
-- [ ] Print 3D bracket for HDD
+- [*] Print 3D bracket for HDD
 
 # Credits
 
